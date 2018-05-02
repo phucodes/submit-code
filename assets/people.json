@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Yuri Gagarin",
+    "text": "First human to enter space",
+    "nationality": "Soviet Union",
+    "url": "http://www.proza.ru/pics/2012/09/11/38.jpg",
+    "year": "12 April 1961",
+    "route": "gagarin"
+  },
+  {
+    "title": "Neil Amstrong",
+    "text": "First human to walk the moon",
+    "nationality": "United States",
+    "url":
+      "https://www.nasa.gov/sites/default/files/thumbnails/image/neil_armtstron_hi.jpg",
+    "year": "July 20, 1969"
+  },
+  {
+    "title": "Valentina Tereshkova",
+    "text": "First Woman In Space",
+    "nationality": "Soviet Union",
+    "url":
+      "https://upload.wikimedia.org/wikipedia/commons/6/61/RIAN_archive_612748_Valentina_Tereshkova.jpg",
+    "year": "March 6, 1937",
+    "link": "https://phudinhn.github.io/Launch-Code-HTML-Me-Something/"
+  },
+  {
+    "title": "Sergei Korolev",
+    "text": "Father of modern practical astronautics",
+    "nationality": "Soviet Union",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/SKorolow.jpg"
+  },
+  {
+    "title": "Aleksei Leonov",
+    "text": "First human to perform EVA",
+    "nationality": "Soviet Union",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Aleksey_Leonov_ASTP_-_cropped.jpg/800px-Aleksey_Leonov_ASTP_-_cropped.jpg",
+    "year": "18 March 1965"
+  },
+  {
+    "title": "Alan Shepard",
+    "text": "First American in space",
+    "nationality": "United States",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Alan-shepard.jpg",
+    "year": "May 5, 1961"
+  },
+  {
+    "title": "Guion Bluford",
+    "text": "First African American in space",
+    "nationality": "United States",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Guion_Bluford.jpg/1200px-Guion_Bluford.jpg",
+    "year": "August 30, 1983"
+  },
+  {
+    "title": "Sally Ride",
+    "text": "First American woman in space",
+    "nationality": "United States",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sally_Ride_in_1984.jpg",
+    "year": "June 18, 1983"
+  }
+]

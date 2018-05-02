@@ -1,0 +1,47 @@
+<template>
+  <div class="container">
+    <div class="left">
+      <div class="head-space">
+        <div class="dot-polka"></div>
+        <h1 class="head-navigation">The Space Race</h1>
+      </div>
+      <p>Soon after World War II, the United States and the Soviet Union became locked in a global conflict of opposing ideologies. Space became a critical theater in this Cold War, as each side competed to best the other's achievements in what became known as the Space Race.</p>
+      <nuxt-link class="navigation" to="people">Next Article<i class='arrow down'></i></nuxt-link>
+    </div>
+    <div class="right">
+
+    </div>
+  </div>
+</template>
+
+<style scoped>
+
+.right {
+  background-image: url("../assets/valentina-duo.png");
+}
+
+.head-navigation {
+  letter-spacing: -2px;
+}
+
+.head-navigation:hover {
+  padding-left: 10px;
+  color: #dd5b65;
+}
+
+.navigation:hover {
+  color: #dd5b65;
+}
+
+.dot-polka {
+  background: linear-gradient(90deg, #f5f5f5, 20px, rgba(248, 237, 237, 0) 1%) center, linear-gradient(#f5f5f5 20px, rgba(254, 254, 254, 0) 1%) center, #dd2c2c;
+  background-size: auto auto, auto auto, auto auto;
+  background-size: 22px 22px;
+  width: 15%;
+  height: 39vh;
+  position: absolute;
+  -webkit-clip-path: polygon(0% 15%, 0 0, 15% 0%, 58% 0, 58% 38%, 100% 38%, 100% 85%, 100% 100%, 85% 100%, 15% 100%, 0 100%, 0% 85%);
+  clip-path: polygon(0% 15%, 0 0, 15% 0%, 58% 0, 58% 38%, 100% 38%, 100% 85%, 100% 100%, 85% 100%, 15% 100%, 0 100%, 0% 85%);
+}
+
+</style>

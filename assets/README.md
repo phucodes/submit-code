@@ -1,0 +1,1 @@
+This folder contains uncompiled assets. Images and json data file go here.

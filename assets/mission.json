@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Sputnik I",
+      "text": "First man-made sattelite",
+      "nationality": "Soviet Union",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sputnik_1.jpg",
+      "year": "4 October 1957"
+    },
+    {
+      "title": "Sputnik II",
+      "text": "Laika Voyage",
+      "nationality": "Soviet Union",
+      "url":
+        "https://media.newyorker.com/photos/59fb65a52d0aaf4a81445779/master/w_727,c_limit/Wellerstein-Laika.jpg",
+      "year": "3 November 1957"
+    },
+    {
+      "title": "Vostok 6",
+      "text": "First Woman In Space",
+      "nationality": "Soviet Union",
+      "url":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vostok_6_capsule_on_display%2C_2016.jpg/1920px-Vostok_6_capsule_on_display%2C_2016.jpg",
+      "year": "16 June 1963",
+      "link": "https://phudinhn.github.io/Launch-Code-HTML-Me-Something/"
+    }
+  ]
+  
